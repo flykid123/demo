@@ -4,4 +4,4 @@ total 5
 -rw-r--r-- 1 rabi 197121 17 Jun  6 19:20 c.txt
 -rw-r--r-- 1 rabi 197121  0 Jun  6 19:21 d.txt
 -rw-r--r-- 1 rabi 197121 38 Jun  6 19:14 first.txt
--rw-r--r-- 1 rabi 197121 32 Jun  6 19:10 readme.md
+-rw-r--r-- 1 rabi 197121 32 Jun  6 19:10 readme.md.
